@@ -2,7 +2,7 @@
 -
 🌐 Otevři http://s-dvorak13-projekt.dev.spsejecna.net.
 
-🔐 Přihlas se.
+🔐 Přihlas se/Zaregistruj se.
 
 ☁️ Můžeš používat můj vlastní upravený OwnCloud!
 
@@ -26,7 +26,7 @@ Můj OwnCloud má navíc nainstalované rozšíření Web, které přináší:
 -
 🌐 Open http://s-dvorak13-projekt.dev.spsejecna.net.
 
-🔐 Log in.
+🔐 Log in/Sign un.
 
 ☁️ You can now use my customized OwnCloud!
 
