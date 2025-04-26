@@ -1,4 +1,5 @@
 🚀 Jak používat můj projekt
+-
 🌐 Otevři http://s-dvorak13-projekt.dev.spsejecna.net.
 
 🔐 Přihlas se.
@@ -19,7 +20,10 @@ Můj OwnCloud má navíc nainstalované rozšíření Web, které přináší:
 
 ℹ️ (Poznámka: Tmavý režim by měl být aktivní již ve výchozím nastavení.)
 
+
+
 🚀 How to Use My Project
+-
 🌐 Open http://s-dvorak13-projekt.dev.spsejecna.net.
 
 🔐 Log in.
