@@ -1,41 +1,41 @@
-Jak používat můj projekt
-Otevři http://s-dvorak13-projekt.dev.spsejecna.net.
+🚀 Jak používat můj projekt
+🌐 Otevři http://s-dvorak13-projekt.dev.spsejecna.net.
 
-Přihlas se.
+🔐 Přihlas se.
 
-Teď můžeš používat můj upravený OwnCloud!
+☁️ Můžeš používat můj vlastní upravený OwnCloud!
 
-Čím se liší od ostatních instalací OwnCloudu?
-Můj OwnCloud má navíc nainstalované rozšíření Web, které přidává:
+✨ Čím se liší od ostatních instalací OwnCloudu?
+Můj OwnCloud má navíc nainstalované rozšíření Web, které přináší:
 
-podporu tmavého režimu (Dark Mode),
+🌓 Tmavý režim (Dark Mode)
 
-vyhledávací lištu pro snazší orientaci.
+🔎 Vyhledávací lištu pro rychlejší navigaci
 
-Jak mohu přepnout OwnCloud do tmavého režimu?
-Otevři nabídku vlevo nahoře.
+🎨 Jak mohu přepnout OwnCloud do tmavého režimu?
+📋 Otevři nabídku vlevo nahoře.
 
-Klikni na New Design.
+🎛️ Klikni na New Design.
 
-(Poznámka: Tmavý režim by měl být zapnutý už ve výchozím nastavení.)
---------------------------------------------------------------------
-How to Use My Project
-Open http://s-dvorak13-projekt.dev.spsejecna.net.
+ℹ️ (Poznámka: Tmavý režim by měl být aktivní již ve výchozím nastavení.)
 
-Log in.
+🚀 How to Use My Project
+🌐 Open http://s-dvorak13-projekt.dev.spsejecna.net.
 
-You can now use my customized OwnCloud!
+🔐 Log in.
 
-How Is It Different from Other OwnCloud Installations?
+☁️ You can now use my customized OwnCloud!
+
+✨ How Is It Different from Other OwnCloud Installations?
 My OwnCloud has an additional Web extension installed, which adds:
 
-Dark Mode support
+🌓 Dark Mode support
 
-A search bar for easier navigation
+🔎 A search bar for easier navigation
 
-How Can I Switch OwnCloud to Dark Mode?
-Open the menu in the top left corner.
+🎨 How Can I Switch OwnCloud to Dark Mode?
+📋 Open the menu in the top left corner.
 
-Click on New Design.
+🎛️ Click on New Design.
 
-(Note: Dark Mode should already be enabled by default.)
+ℹ️ (Note: Dark Mode should already be enabled by default.)
